@@ -1,0 +1,7 @@
+firstName | lastName | age 
+
+Lakeisha | McCree | 36
+Ivy | Eddington | 3
+Blair | Eddington | 6
+Andrew | Eddington | 4
+Belinda | Barnes | 68
